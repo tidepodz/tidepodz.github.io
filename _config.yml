@@ -3,14 +3,16 @@ baseurl: ""
 url: "https://tidepodz.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Type on Strap                                    # site's title
-description: "A website with blog posts and pages"      # used by search engines
+title: Suppressor Buddy                                    # site's title
+description: "My first attempt at a page"      # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
-header_feature_image: assets/img/header/triangular.jpeg
+#header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
+header_text: Your best friend when shooting suppressed  # Change Blog header text
+#header_feature_image: assets/img/header/triangular.jpeg
+header_feature_image: assets/img/header/banish-30-01.jpg
 header_feature_image_responsive: true
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
