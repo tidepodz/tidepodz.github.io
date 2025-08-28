@@ -6,10 +6,12 @@ layout: single
 
 ## About Brad Whipple
 
-Brad Whipple was born and raised in Idaho. He's lived in East Idaho for over 10 years and moved here for work after graduating from Boise State. 
+Brad Whipple was born and raised in Idaho and has proudly called East Idaho home for more than a decade. After graduating from Boise State University, he moved to the region for work and quickly became an active member of the community.
 
-He served 6 years in the Idaho National Guard and departed the service as an E-5 Seargent and spent most of his service as gunner on a Bradley fighting vehicle. 
+Brad served six years in the Idaho National Guard, achieving the rank of E-5 Sergeant. Much of his service was spent as a gunner on a Bradley Fighting Vehicle, where he developed leadership skills, discipline, and a strong commitment to teamwork and service.
 
-He holds an undergraduate degree in Electrical Engineering from Boise State and a Masters of Computer Science from University of Idaho. He curerently works a day job in the cybersecurity industry serving countless utilities as his primary clientelle and owns and operates on the side a business providing electrical charging solutions to the military.
+He holds an undergraduate degree in Electrical Engineering from Boise State University and a Master’s degree in Computer Science from the University of Idaho. Professionally, Brad works in the cybersecurity industry, where he serves utilities across the nation, helping to protect critical infrastructure. In addition to his career, he owns and operates a small business that provides electrical charging solutions to the military.
+
+With a deep commitment to service, strong technical expertise, and a lifelong connection to Idaho, Brad is dedicated to bringing practical solutions and principled leadership to the Idaho Falls City Council.
 
 
