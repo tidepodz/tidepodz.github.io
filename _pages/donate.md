@@ -5,5 +5,7 @@ layout: single
 ---
 
 ## Donate
- 
-Under Construction
+
+All proceeds to go towards Brad Whipple's 2025 campaign
+
+![plot](venmo.png)
