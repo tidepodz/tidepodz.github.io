@@ -16,7 +16,7 @@ Brad served six years in the Idaho National Guard, achieving the rank of Sergean
 
 He holds an undergraduate degree in Electrical Engineering from Boise State University and a Master’s degree in Computer Science from the University of Idaho. Professionally, Brad works in the cybersecurity industry, where he serves utilities across the nation, helping to protect critical infrastructure. In addition to his career, he owns and operates a small business that provides electrical charging solutions to the military.
 
-Outside of work, Brad Whipple loves spending time in the Idaho outdoors, taking every chance he gets to enjoy the mountains, rivers, and wide-open spaces.
+Outside of work, Brad Whipple loves spending time with his family in the Idaho outdoors, taking every chance he gets to enjoy the mountains, rivers, and wide-open spaces.
 
 ![Alt text](/assets/images/hunting2.jpg "Optional image title")
 
