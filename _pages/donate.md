@@ -7,5 +7,4 @@ layout: single
 ## Donate
 
 All proceeds to go towards Brad Whipple's 2025 campaign
-
-![plot](venmo.png)
+![Alt text](/assets/images/venmo.png "Optional image title")
