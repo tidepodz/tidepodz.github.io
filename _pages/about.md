@@ -16,7 +16,7 @@ He holds an undergraduate degree in Electrical Engineering from Boise State Univ
 
 Outside of work, Brad Whipple loves spending time in the Idaho outdoors, taking every chance he gets to enjoy the mountains, rivers, and wide-open spaces.
 
-![Alt text](/assets/images/hunting.jpg "Optional image title")
+![Alt text](/assets/images/hunting.JPG "Optional image title")
 
 With a deep commitment to service, strong technical expertise, and a lifelong connection to Idaho, Brad is dedicated to bringing practical solutions and principled leadership to the Idaho Falls City Council.
 
