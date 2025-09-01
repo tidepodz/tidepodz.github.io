@@ -8,8 +8,6 @@ layout: single
 
 Brad Whipple was born and raised in Idaho and has proudly called East Idaho home for more than a decade. After graduating from Boise State University, he moved to the region for work and quickly became an active member of the community.
 
-![Alt text](/assets/images/portrait.jpg "Optional image title")
-
 Brad served six years in the Idaho National Guard, achieving the rank of Sergeant (E-5). Much of his service was spent as a gunner on a Bradley Fighting Vehicle, where he developed leadership skills, discipline, and a strong commitment to teamwork and service.
 
 ![Alt text](/assets/images/armyprofile.jpg "Optional image title")
