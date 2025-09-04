@@ -6,9 +6,15 @@ layout: single
 
 ## Brad Whipple's Platform and Policy
 
-I am running for Idaho Falls City Council on a platform that emphasizes limited government and the protection of individual property rights. I believe one of the driving forces behind the rising cost of housing in our community is the excessive red tape and restrictions placed on property owners.
+I am running for Idaho Falls City Council on a platform that emphasizes 
+* Small Government
+* Transparency
+* Fiscal Responsibility
+* Preservation of Property Rights
 
-While the City Council cannot control every factor influencing housing costs, it can play a meaningful role in reducing unnecessary bureaucratic barriers. Whenever an opportunity arises to streamline procedures and give property owners more flexibility, I will advocate for it.
+A small government is an inexpensive government and emphasises personal responsiblity. I believe one of the driving forces behind the rising costs in our community is the excessive red tape and restrictions placed on property and business owners.
+
+While the City Council cannot control every factor influencing costs, such as housing costs. It can play a meaningful role in reducing unnecessary bureaucratic barriers. Whenever an opportunity arises to streamline procedures and give property owners more flexibility, I will advocate for it.
 
 
 
@@ -22,7 +28,7 @@ Taxpayer dollars must be treated with care and respect. I will work to ensure ci
 
 #### 🔧 Infrastructure & Growth
 
-As Idaho Falls continues to grow, it’s critical that our roads, utilities, and public spaces keep pace. I will advocate for responsible, long-term planning that prevents overburdening our existing systems. From smoother traffic flow to well-maintained parks and reliable utilities, smart infrastructure investments will keep our city strong and livable for years to come.
+As Idaho Falls continues to grow, it’s critical that our roads, utilities, and public spaces keep pace. I will advocate for responsible, long-term planning through reasonalbe impact fees that prevents overburdening our existing systems. Smart infrastructure investments will keep our city strong and livable for years to come.
 
 #### 📈 Economic Development
 
