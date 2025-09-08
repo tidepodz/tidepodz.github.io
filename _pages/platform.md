@@ -10,7 +10,7 @@ I am running for Idaho Falls City Council on a platform that emphasizes
 * Small Government
 * Transparency
 * Fiscal Responsibility
-* Preservation of Property Rights
+* Housing Affordability
 
 A small government is an inexpensive government and emphasises personal responsiblity. I believe one of the driving forces behind the rising costs in our community is the excessive red tape and restrictions placed on property and business owners.
 
