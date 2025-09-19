@@ -10,3 +10,11 @@
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+  main:
+  - title: "Donate"
+    url: "https://secure.anedot.com/brad4if/donate"
+    class: "btn btn--primary"
+  - title: "Request a Yard Sign"
+    url: "/requestyardsign/"
+    class: "btn btn--primary"
