@@ -8,6 +8,46 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+.site-logo img {
+  max-height: 90px;   /* adjust height */
+  width: auto;
+}
+
+/* Works with Minimal Mistakes structure */
+.page__hero--overlay  {
+  position: relative;
+  overflow: visible;
+}
+
+.page__hero--overlay::after {
+  content: "";
+  position: absolute;
+  bottom: -40px; /* overlap below header */
+  right: 15%;     /* adjust horizontal position */
+  width: 280px;
+  height: 280px;
+  background-image: url('/assets/images/portrait.jpg');
+  background-size: cover;
+  background-position: center;
+  background-position: 55% 30%;
+  border-radius: 50%;
+  border: 4px solid #fff;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  z-index: 10;
+}
+
+/* Optional: responsive scaling for mobile */
+@media (max-width: 768px) {
+  .page__hero--overlay::after {
+    width: 120px;
+    height: 120px;
+    bottom: -40px;
+    right: 8%;
+  }
+}
+
 .page__hero--overlay {
   min-height: 60vh;   // Adjust to make header taller
 }
+
+
